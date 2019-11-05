@@ -1,0 +1,7 @@
+/*.ng-touched:not(form).ng-invalid{*/
+/*  border: 1px solid red;*/
+/*}*/
+
+.field-error{
+  border: 1px solid red;
+}
